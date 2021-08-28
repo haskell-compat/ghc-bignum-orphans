@@ -1,0 +1,2 @@
+## 0.1 [????.??.??]
+* Backport the `Eq` and `Ord` instances for `BigNat`.

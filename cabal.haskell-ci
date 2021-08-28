@@ -1,0 +1,3 @@
+distribution:      bionic
+ghcup-jobs:        >=9.0
+local-ghc-options: -Werror
