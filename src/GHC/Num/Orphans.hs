@@ -1,6 +1,10 @@
 {-# LANGUAGE CPP #-}
 {-# LANGUAGE MagicHash #-}
 {-# OPTIONS_GHC -Wno-orphans #-}
+{-|
+Exports orphan instances that mimic instances available in later versions of
+@ghc-bignum@. To use them, simply @import GHC.Num.Orphans ()@.
+-}
 module GHC.Num.Orphans () where
 
 #if !(MIN_VERSION_ghc_bignum(1,1,0))
