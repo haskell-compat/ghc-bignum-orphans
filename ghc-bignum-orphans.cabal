@@ -1,6 +1,6 @@
 cabal-version:      2.4
 name:               ghc-bignum-orphans
-version:            0.1
+version:            0.1.1
 synopsis:           Backwards-compatible orphan instances for ghc-bignum
 description:        @ghc-bignum-orphans@ defines orphan instances that mimic
                     instances available in later versions of @ghc-bignum@ to a
