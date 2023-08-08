@@ -14,8 +14,8 @@ maintainer:         Ryan Scott <ryan.gl.scott@gmail.com>
 copyright:          (C) 2021 Ryan Scott
 category:           Compatibility
 extra-source-files: CHANGELOG.md, README.md
-tested-with:        GHC == 9.0.1
-                     || == 9.2.1
+tested-with:        GHC == 9.0.2
+                     || == 9.2.8
 
 source-repository head
   type:               git
