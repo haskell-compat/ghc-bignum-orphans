@@ -1,2 +1,2 @@
-distribution:      bionic
 local-ghc-options: -Werror
+error-unused-packages: False
